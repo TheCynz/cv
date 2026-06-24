@@ -1,0 +1,19 @@
+{
+  "name": "Tom Jones | Software Developer",
+  "short_name": "Tom Jones",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#0d0a08",
+  "background_color": "#0d0a08",
+  "display": "standalone"
+}
